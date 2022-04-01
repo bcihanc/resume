@@ -54975,15 +54975,15 @@ J(a,b){var s=null
 return A.o4(A.a([new A.eS(B.k8,s,s,A.el("Projects",s,A.iO(s,s,s,s,s,s,s,s,s,s,s,22,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.iE(s,s,8)],t.p),B.Y,B.b6)}}
 A.Fm.prototype={
 J(a,b){var s,r="https://github.com/TeamEPIC/flutter_hackathon_21",q=null,p=t.jj,o=A.a([new A.dp("Aytemiz Vaay",r,B.a4),new A.dp("Aytemiz Depot","",B.a4)],p),n=A.a6h(),m=A.ams()
-o=A.a6G(new A.oY("Aytemiz BT","Software Developer - Present","",q),A.a6F(A.EP(),n,m),new A.oX(o,q))
+o=A.a6G(new A.oY("Aytemiz BT","Software Developer - Present","Kurumsal cati altinda gelistirilen uygulamalar",q),A.a6F(A.EP(),n,m),new A.oX(o,q))
 m=A.a([new A.dp("DimiAPI NestJS","https://github.com/bcihanc/dimi-api",B.a4),new A.dp("Yonder",r,B.a4),new A.dp("SwapiMiner","https://github.com/bcihanc/flutter_api_sample",B.a4),new A.dp("Shopzone","https://github.com/bcihanc/flutter_shoppingapp_sample",B.a4),new A.dp("Tasky","https://github.com/bcihanc/flutter_todo_sample",B.a4),new A.dp("Trailerify","https://github.com/bcihanc/flutter_videoapp_sample",B.a4)],p)
 n=A.a6h()
 s=A.EP()
-m=A.a6G(new A.oY("Freelance","Flutter Developer - 2021","Hem egitim hemde portfolio amacli yarattigim bir kac uygulama, rest api isteklerini, local veritabani kontrollerini ve state yonetimi gibi konulara nasil yaklastigimi bu projelerden gorebilirsiniz.",q),A.a6F(A.EP(),n,s),new A.oX(m,q))
+m=A.a6G(new A.oY("Freelance","Flutter Developer - 2021","Portfolio ve ticari amacla yaratilan uygulamalar, response-request, dto, orm, validasyon, auth, authz, veritabani ve state yonetimi gibi konulara yaklasim.",q),A.a6F(A.EP(),n,s),new A.oX(m,q))
 p=A.a([new A.dp("reff","https://github.com/bcihanc/reff",B.a4),new A.dp("reff web","https://github.com/bcihanc/reff_web",B.a4),new A.dp("reff shared","https://github.com/bcihanc/reff_shared",B.a4)],p)
 s=A.a6h()
 n=A.EP()
-return A.hZ(A.a([o,m,A.a6G(new A.oY("Kare Agency","Flutter Developer - 2020","Firebase'in tum yeteneklerini kullanan bir uygulamasi, mobil taraf kullanicilarla etkilesime gecen modul, web tarafi veritabanini ve istatistikleri yoneten modul.",q),A.a6F(A.EP(),s,n),new A.oX(p,q))],t.p),B.aJ,B.Y,B.aB)}}
+return A.hZ(A.a([o,m,A.a6G(new A.oY("Kare Agency","Flutter Developer - 2020","Firebase'in tum yeteneklerini kullanan bir uygulama, mobil taraf kullanicilarla etkilesime gecen modul, web tarafi veritabanini ve istatistikleri yoneten modul.",q),A.a6F(A.EP(),s,n),new A.oX(p,q))],t.p),B.aJ,B.Y,B.aB)}}
 A.dp.prototype={
 gap(a){return this.a}}
 A.oX.prototype={
